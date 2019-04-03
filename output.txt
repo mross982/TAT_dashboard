@@ -1,0 +1,729 @@
+***Please turn off Word Wrapping to ensure proper formatting. 
+	Format->Word Wrap
+
+Dashboard import log
+-- Initiated at: 5/2/2016 1:36:43 PM
+-- Initiated by: Perry, Thomas J
+
+--- BRC data ---
+Removed accn T51075	Due to comment IFCAN			DEL.IFCAN
+Removed accn H27104	Due to comment IFCAN			DEL.IFCAN
+Removed accn T44759	Due to comment CLOT			SCLOT.;NOTIFIED FELIX 0953 041916 LGS
+Removed accn X65041	Due to comment HEMOL			HEMOLS.
+Removed accn T39292	Due to comment HEMOL			HEMOLS.
+Removed accn M64716	Due to comment QRN			QRN.
+Removed accn H13655	Due to comment QNS			QNS.TNP
+Removed accn M54988	Due to comment CLOT			CLOTR.;SPOKE WITH NATALIE RN CRASH E 4/4/16 @ 2020 KG
+Removed accn S4037	Due to comment CLOT			CLOTR.
+Removed accn T40178	Due to comment CLOT			CLOTR.
+Removed accn W41066	Due to comment CLOT			CLOTR.
+Removed accn T44759	Due to comment CLOT			SCLOT.
+Removed accn T32944	Due to comment CLTD			CLTD.
+Removed accn S11520	Due to comment CLTD			CLTD.
+Removed accn H8438	Due to comment QNS			QNS.DISCH
+Removed accn S14439	Due to comment QNS			QNS.TNP
+Removed accn S17806	Due to comment QNS			QNS.;NOTIFIED KATE RN 1417 04302016 CS
+Removed accn M61485 by request
+Removed accn T32589	Due to comment HEMOL			HEMOLS.; CALLED TO RN AT 1626 4.5.16 HO.
+Removed accn T32925	Due to comment HEMOL			HEMOLS.; CALLED TO CRASH AT 1735 4.5.16 HO.-;CORRECTED ON 04/05 AT 1733: PREVIOUSLY REPORTED AS <0.01   The 2012 Third Universal Definition of Myocardial Infarction document states that detection of a rise and/or fall of cardiac biomarker values (preferably
+Removed accn T33436	Due to comment HEMOL			HEMOLS.
+Removed accn H3325	Due to comment HEMOL			HEMOLS.
+Removed accn S3242	Due to comment HEMOL			HEMOLS.
+Removed accn M62404	Due to comment HEMOL			HEMOLS.;CORRECTED ON 04/11 AT 2101: PREVIOUSLY REPORTED AS <0.01   The 2012 Third Universal Definition of Myocardial Infarction document states that detection of a rise and/or fall of cardiac biomarker values (preferably cardiac troponin) with at least one
+Removed accn W39661	Due to comment HEMOL			HEMOLS.
+Removed accn H13655	Due to comment HEMOL			;HEMOLS.;SPOKE W/ KATIE RN CRASH W 4/14/16 @ 2202 KG
+Removed accn F35576	Due to comment HEMOL			HEMOLS.;NOTIFIED RN 1332 04152016 CS
+Removed accn X3827	Due to comment HEMOL			HEMOLS.
+Removed accn M5855	Due to comment HEMOL			HEMOLS.;SPOKE W/ RN CRASH W 4/25/16 @ 1958 KG-;CORRECTED ON 04/25 AT 1958: PREVIOUSLY REPORTED AS <0.01   The 2012 Third Universal Definition of Myocardial Infarction document states that detection of a rise and/or fall of cardiac biomarker values (preferab
+Removed accn X60415	Due to comment QRN			QRN.;SPOKE W/ RN 4/3/16 @ 1717 KG
+Removed accn M5700	Due to comment QNS			QNS.;SPOKE W/ RN EDCP 4/25/16 @ 1821 KG
+Removed accn M49998	Due to comment DUP			DUP.;SEE ACC M50247
+Removed accn S755	Due to comment DUP			DUP.;SEE ACC S757
+Removed accn T38562	Due to comment DUP			DUPL.
+Removed accn T33691	Due to comment PREVIOUSLY REPORTED	GROH.;CORRECTED ON 04/05 AT 1904: PREVIOUSLY REPORTED AS <0.01   The 2012 Third Universal Definition of Myocardial Infarction document states that detection of a rise and/or fall of cardiac biomarker values (preferably cardiac troponin) with at least one
+Removed accn W30927	Due to comment GROH			GROH.;NOTIFIED RN 1011 04062016 CS
+Removed accn H10065	Due to comment GROH			GROH.DEL
+Removed accn F35572	Due to comment GROH			GROH.
+Removed accn H10940 by request
+Removed accn M61485 by request
+Removed accn F22018	Due to comment HEMOL			HEMOLS.;REORDERING ON NEW SAMPLE FROM 1120 LC
+Removed accn X60055	Due to comment HEMOL			HEMOLS.;NOTIFIED TERESA RN 1404 04032016 CS
+Removed accn T32944	Due to comment HEMOL			HEMOLS.
+Removed accn T32973	Due to comment HEMOL			HEMOLS.
+Removed accn T33323	Due to comment HEMOL			HEMOLS.
+Removed accn T33436	Due to comment HEMOL			HEMOLS.
+Removed accn T33919	Due to comment HEMOL			HEMOLS.
+Removed accn T34076	Due to comment HEMOL			HEMOLS.
+Removed accn H3325	Due to comment HEMOL			HEMOLS.
+Removed accn H5509	Due to comment HEMOL			HEMOLS.
+Removed accn F31252	Due to comment HEMOL			HEMOLS.
+Removed accn S3242	Due to comment HEMOL			HEMOLS.
+Removed accn S3887	Due to comment HEMOL			HEMOLS.
+Removed accn M61722	Due to comment HEMOL			HEMOLS.
+Removed accn M62292	Due to comment HEMOL			HEMOLS.
+Removed accn M62404	Due to comment HEMOL			HEMOLS.
+Removed accn H13655	Due to comment HEMOL			HEMOLS.;SPOKE W/ KATIE RN CRASH W 4/14/16 @ 2202 KG
+Removed accn X71308	Due to comment HEMOL			HEMOLS.
+Removed accn H18268	Due to comment HEMOL			HEMOLS.
+Removed accn H20136	Due to comment HEMOL			HEMOLS.
+Removed accn F44038	Due to comment HEMOL			HEMOLS.
+Removed accn X3827	Due to comment HEMOL			HEMOLS.
+Removed accn H24968	Due to comment HEMOL			HEMOLS.;NOTIFIED RN TAYLOR 1320 04282016 CS
+Removed accn H27350	Due to comment HEMOL			HEMOLS.
+Removed accn H20659	Due to comment QRN			QRN.
+Removed accn X59968	Due to comment QNS			QNS.;NOTIFIED LUISA RN 1344 04032016 CS
+Removed accn S3542	Due to comment QNS			QNS.
+Removed accn M62184	Due to comment QNS			QNS.
+Removed accn F37910	Due to comment TNP			GROH.TNP
+Removed accn M68376	Due to comment TNP			GROH.TNP
+Removed accn F32261	Due to comment DUP			DUP.;SEE ACC S1155
+Removed accn S1573	Due to comment DUP			DUP.;SEE ACC S1620
+Removed accn W41233	Due to comment DUP			DUP.
+Removed accn M55185	Due to comment RECOL			CONTAM.;REORDER/RECOLLECT SS.
+Removed accn S14758	Due to comment RECOL			GROH.;REORDER/RECOLLECT SS.
+Removed accn X1546	Due to comment RECOL			GROH.;REORDER/RECOLLECT SS.
+Removed accn T33691	Due to comment GROH			GROH.
+Removed accn W30927	Due to comment GROH			GROH.;NOTIFIED RN 1011 04062016 CS
+Removed accn M62286	Due to comment GROH			GROH.
+Removed accn F35572	Due to comment GROH			GROH.
+Removed accn X69452	Due to comment GROH			GROH.;NOTIFIED MELISSA RN 1232 04172016 CS
+Removed accn H1253 by request
+Removed accn H12535 by request
+Removed accn T39508 by request
+Removed accn F43690 by request
+Removed accn M61485 by request
+Removed accn F25107 by request
+Removed accn S69093	Due to comment HEMOL			HEMOLS.
+Removed accn W34212	Due to comment HEMOL			HEMOLS.
+Removed accn H5351	Due to comment HEMOL			4.6.; SLIGHT HEMOLYSIS, INTREPRET ACCORDINGLY
+Removed accn F31588	Due to comment HEMOL			HEMOLS.
+Removed accn S4037	Due to comment HEMOL			HEMOLS.
+Removed accn H20671	Due to comment HEMOL			HEMOLS.
+Removed accn W50988	Due to comment HEMOL			HEMOLS.
+Removed accn F51443	Due to comment HEMOL			5.0.; SLIGHT HEMOLYSIS, INTREPRET RESULTS ACCORDINGLY
+Removed accn F33211	Due to comment QNS			QNS.;NOTIFIED MAI RN 0830 04152016 CS
+Removed accn M69121	Due to comment TNP			GROH.TNP
+Removed accn X3270	Due to comment TNP			GROH.TNP
+Removed accn H27160	Due to comment TNP			GROH.TNP
+Removed accn F20379	Due to comment DUP			DUP.;SEE ACC F20405
+Removed accn H13351	Due to comment DUP			DUP.;CORRECTED ON 04/14 AT 2223: PREVIOUSLY REPORTED AS 3.6
+Removed accn H20618	Due to comment DUP			DUP.;SEE ACC H20671
+Removed accn X61705	Due to comment RECOL			GROH.;REORDER/RECOLLECT SS.
+Removed accn T50140	Due to comment RECOL			GROH.;REORDER/RECOLLECT SS.
+Removed accn F22018	Due to comment CLOT			CLOT.;NOTIFIED RN 1115 04012016 CS
+Removed accn S67489	Due to comment CLOT			SCLOT.;CALLED KATHY @ 0115 040216/MCM
+Removed accn T32973	Due to comment CLOT			CLOTR.;NOTIFIED JEREMY RN CRASH W 4/5/16 @ 1634 KG
+Removed accn W29454	Due to comment CLOT			CLOT.;REORDER/RECOLLECT SS.
+Removed accn H5509	Due to comment CLOT			CLOTR.; CALLED TO WENDY AT 1746 4.7.16 TO RELAY FOR RECOL AND REORDER. HO
+Removed accn S3887	Due to comment CLOT			CLOTR.
+Removed accn S4037	Due to comment CLOT			CLOTR.
+Removed accn H9022	Due to comment CLOT			CLOTR.;CORRECTED ON 04/14 AT 0603: PREVIOUSLY REPORTED AS 9.7
+Removed accn X69452	Due to comment CLOT			CLOTR.
+Removed accn M66480	Due to comment CLOT			SCLOT.
+Removed accn T44759	Due to comment CLOT			CLOTR.
+Removed accn H19497	Due to comment CLOT			CLOT.TNP
+Removed accn H20835	Due to comment CLOT			CLOTR.
+Removed accn F43958	Due to comment CLOT			CLOTR.
+Removed accn X1086	Due to comment CLOT			SCLOT.;CALLED @ 0150 042416/mcm
+Removed accn X3270	Due to comment CLOT			CLOT.; CALLED TO KATE RN AT 1626 4.24.16 FOR RECOL/REORDER ON BOTH BMP AND CBC. HO
+Removed accn M6834	Due to comment CLOT			CLOT.; CALLED TO BRENDON RN CALLED AT 2303 4.25.16 HO FOR RECOL/REORDER.
+Removed accn T53144	Due to comment CLOT			CLOTR.
+Removed accn H22220	Due to comment CLOT			CLOTR.;HOLLY,RN 042814 0107..BN
+Removed accn H25591	Due to comment CLOT			SCLOT.;NOTIFIED CESAR 1443 042816 LGS
+Removed accn S18361	Due to comment CLOT			CLOTR.;SPOKE W/ ANNABELL RN CRASH E 4/30/16 @ 1722 KG
+Removed accn F37910	Due to comment CLTD			CLTD.
+Removed accn H18411	Due to comment CLTD			CLTD.;NOTIFIED SARAH RN 1424 04212016 CS
+Removed accn W53300	Due to comment CLTD			CLTD.;NOTIFIED RN 1341 04272016 CS-;MELISSA RN
+Removed accn M63087	Due to comment QRN			QRN.
+Removed accn W36645	Due to comment QRN			QRN.;REORDER/RECOLLECT SS.
+Removed accn F52257	Due to comment QRN			QRN.;REORDER/RECOLLECT SS.
+Removed accn F35828	Due to comment PREVIOUSLY REPORTED	MDCAN.;PER DR. STICKLES AND HARDIN RN 1200 04152016 CS-;CORRECTED ON 04/15 AT 1159: PREVIOUSLY REPORTED AS 5.8
+Removed accn H1253 by request
+Removed accn H12535 by request
+Removed accn F43690 by request
+Removed accn M61485 by request
+Removed accn F25107 by request
+Removed accn F25129 by request
+Removed 138 accns
+--- End BRC ---
+
+--- DCMC data ---
+Removed accn F30596	Due to comment IFCAN			DEL.IFCAN
+Removed accn W36495	Due to comment IFCAN			DEL.IFCAN
+Removed accn H13909	Due to comment IFCAN			DEL.IFCAN
+Removed accn H19475	Due to comment IFCAN			DEL.IFCAN
+Removed accn F42882	Due to comment IFCAN			DEL.IFCAN
+Removed accn T53685	Due to comment IFCAN			DEL.IFCAN
+Removed accn H22480	Due to comment IFCAN			DEL.IFCAN
+Removed accn S18591	Due to comment IFCAN			DEL.IFCAN
+Removed accn X59259 by request
+Removed accn W40868	Due to comment CLOT			CLOTR.;NOTIFIED JESSICA GALLUB,RN AT 1816 4/13/16 BY JHS.
+Removed accn H20724	Due to comment QNS			QNS.;NOTIFIED RN JEANINE PERKINS
+Removed accn W54588	Due to comment NSR			NSR.
+Removed accn H6807	Due to comment HEMOL			HEMOLS.
+Removed accn S2857	Due to comment HEMOL			HEMOLS.;NOTIFIED SARA GINSLER RN AT 1320 ON 040916 JCM
+Removed accn M61617	Due to comment QNS			QNS.MODH-; RN CRAIG @ 1756 041116 AS 6973
+Removed accn T45024	Due to comment QNS			QNS.;NOTIFIED RACHEL NEVILL @1055 04192016 LM
+Removed accn W47622	Due to comment QNS			QNS.;NOTIFIED TRACY CAVENDER,RN AT 1820 4/20/16 BY JHS.
+Removed accn W53050	Due to comment QNS			QNS.GROH-; RN SOPHIE @ 1335 042716 AS 6973
+Removed accn F31270	Due to comment SNR			SNR.
+Removed accn W52871	Due to comment RECOL			MODH.;CALLED FOR RECOLLECT SOPHIE CRAWFORD @ 1318 04272016 RS
+Removed accn S1209	Due to comment HEMOL			HEMOLS.;BRIE CLEPHANE RN 04092016 0129 RIA
+Removed accn F48917	Due to comment RECOL			MODH.;CALLED FOR RECOLLECT JENNIFER STARK @ 1117 04292016 RS
+Removed accn T41149	Due to comment GROH			GROH.;NOTIFIED HEATHER SELLERS,RN AT 2113 4/12/16 BY JHS.
+Removed accn M61680 by request
+Removed accn F20472	Due to comment CLOT			CLOTR.;NOTIFIED KIM SANCHEZ RN AT 0410 CMV 04/01/16
+Removed accn F24848	Due to comment CLOT			CLOTR.;NOTIFIED ANA G @2118 04012016 LM
+Removed accn X61399	Due to comment CLOT			CLOTR.; NOTIFIED CRISTI RYMAN RN AT 2210 CMV 04/03/16
+Removed accn W33139	Due to comment CLOT			CLOTR.;NOTIFIED KIM HARTLEY @1652 04062016 LM
+Removed accn W34899	Due to comment CLOT			CLOTR.;CALLED TO P CIEPLY RN AT 0155
+Removed accn W40868	Due to comment CLOT			CLOTR.;NOTIFIED JESSICA GALLUB,RN AT 1816 4/13/16 BY JHS.
+Removed accn F37957	Due to comment CLOT			CLOTR.;CALLED TO P CASTILLO RN AT 2151
+Removed accn X68285	Due to comment CLOT			CLOTR.;NOTIFIED JANINE PERKINS RN AT 0425 CMV 04/17/16
+Removed accn W46891	Due to comment CLOT			CLOTR.;NOTIFIED CHRISTINA STOLTE,RN AT 1509 4/20/16 BY JHS.
+Removed accn W47877	Due to comment CLOT			SCLOT.;NOTIFIED TRACY CAVENDER ER RN @ 1816 04202016 KAS
+Removed accn X2849	Due to comment CLOT			CLOTR.;NOTIFIED LIVIA MORTON,RN AT 1410 4/24/16 BY JHS.
+Removed accn W52070	Due to comment CLOT			SCLOT.;NOTIFIED STEPHEN GONZALEZ ER @ 1131 04272016 KAS
+Removed accn S2857	Due to comment CLTD			CLTD.;NOTIFIED SARA GINSLER RN AT 1320 ON 040916 JCM
+Removed accn M57998	Due to comment CLTD			CLTD.;CALLED FOR RECOLLECT AMY JOHNSON @ 0753 04112016 RS
+Removed accn M60187	Due to comment CLTD			CLTD.;CALLED FOR RECOLLECT CENAIA S @ 1418 04112016 RS
+Removed accn M69434	Due to comment CLTD			CLTD.;BREE RN 04182016 2120 IR
+Removed accn H6556	Due to comment QRN			QRN.; ALI ROYAL RN AT 2210 CMV 04/07/16
+Removed accn M61680 by request
+Removed 42 accns
+--- End DCMC ---
+
+--- SHC data ---
+Removed accn T39044	Due to comment IFCAN			DEL.IFCAN
+Removed accn W45285	Due to comment IFCAN			DEL.IFCAN
+Removed accn S18198	Due to comment IFCAN			DEL.IFCAN
+Removed accn X61069	Due to comment HEMOL			HEMOLS.RPT4-;MATT 040316 2027 TH
+Removed accn X66191	Due to comment HEMOL			HEMOLS.RPT4-;RN A. MORRIS 4/10/16 2103.JA
+Removed accn S10062	Due to comment HEMOL			HEMOLS.;CALLED RANDY/ER 2359 041616 TMG
+Removed accn S14644	Due to comment HEMOL			HEMOLS.RPT4-;DANIELLE 042316 2305 TH
+Removed accn T50379	Due to comment HEMOL			HEMOLS.TBR
+Removed accn S17427	Due to comment HEMOL			HEMOLZ.;CALLED TO CAROL INED FOR RECOLLECT. PAL 1255
+Removed accn X65026	Due to comment QRN			QRN.RPT4-;EMILY @ 1421 ART
+Removed accn S9877	Due to comment QRN			QRN.RPT4-;DANIELLE MCLELLAN RN @2230 041616 DT
+Removed accn H22462	Due to comment QRN			QRN.RPT4-;DR.BEATTY 042816 0325/MS
+Removed accn H17457	Due to comment QNS			QNS.RPT4-;LINDA RN 1204 042116 BC
+Removed accn M57337	Due to comment RPT4			HEMOLS.RPT4-;DAVID 041116 0146 TH
+Removed accn W41521	Due to comment RPT4			IMPCOL.;TUBE TOO FULL.-RPT4-;RN J. SINON 4/13/16 2047. JA
+Removed accn W43445	Due to comment RPT4			RPT4.;JOE RN AT 0112 ON 4/20/16.CH
+Removed accn W55337	Due to comment CLOT			CLOTR.
+Removed accn T32330	Due to comment HEMOL			HEMOLZ.RPT4-;JOANNE RN 1428 040516 BC
+Removed accn W33951	Due to comment HEMOL			HEMOLS.
+Removed accn F30742	Due to comment HEMOL			HEMOLS.RPT4-;RYAN MCWHIRTER RN @1738 040816 DT
+Removed accn M57337	Due to comment HEMOL			HEMOLS.RPT4-;DAVID 041116 0146 TH
+Removed accn F36978	Due to comment HEMOL			HEMOLS.RPT4-;RN P. WHITE 4/15/16 1513. JA
+Removed accn M67656	Due to comment HEMOL			HEMOLS.RPT4-;KRISTEN @ 1542 ART
+Removed accn W47504	Due to comment HEMOL			HEMOLS.RPT4-;BLAIR FAULK RN 1728 04202016 RF
+Removed accn S13099	Due to comment HEMOL			HEMOLZ.
+Removed accn T50379	Due to comment HEMOL			HEMOLS.TBR
+Removed accn S17731	Due to comment HEMOL			HEMOLZ.
+Removed accn S17816	Due to comment QRN			QRN.RPT4-;CHRISTIE RN PAL 1448 4/30/16
+Removed accn T34269	Due to comment QNS			QNS.CALRED-;LAUREN RN @ 2058 4/5/2016 DLG
+Removed accn W48848	Due to comment QNS			QNS.RPT4-;BLAIR FAULKE RN 2245 04202016 RF
+Removed accn F25128 by request
+Removed accn X59180 by request
+Removed accn X64374 by request
+Removed accn S13134 by request
+Removed accn S13030 by request
+Removed accn W48848	Due to comment CLOT			CLOTR.QNS
+Removed accn F24712	Due to comment HEMOL			HEMOLS.RPT4-;BARBARA 040116 2036 TH
+Removed accn X61050	Due to comment HEMOL			HEMOLS.RPT4-;LAUREN 040316 2002 TH
+Removed accn M50484	Due to comment HEMOL			HEMOLS.RPT4-;KELLY 040416 0331 TH
+Removed accn W33439	Due to comment HEMOL			HEMOLS.
+Removed accn W33951	Due to comment HEMOL			HEMOLS.
+Removed accn M57337	Due to comment HEMOL			HEMOLS.RPT4-;DAVID 041116 0146 TH
+Removed accn M61837	Due to comment HEMOL			HEMOLS.RPT4-;REIM ELIZABETH RN @1905 041116 DT
+Removed accn M67656	Due to comment HEMOL			HEMOLS.RPT4-;KRISTEN @ 1542 ART
+Removed accn F41010	Due to comment HEMOL			HEMOLZ.
+Removed accn M3042	Due to comment HEMOL			HEMOLS.RPT4-;JENNIFER @ 1030 ART
+Removed accn T50379	Due to comment HEMOL			HEMOLS.
+Removed accn T55859	Due to comment QNS			QNS.
+Removed accn M53085	Due to comment RPT4			GROH.RPT4-;KRISTEN @ 13
+Removed accn X71042	Due to comment RPT4			TRIG3K.RPT4-;G. BORROMEO RN 04/17/16 @ 2223 CD-;CORRECTED ON 04/17 AT 2219: PREVIOUSLY REPORTED AS 0.01   The 2012 Third Universal Definition of Myocardial Infarction document states that detection of a rise and/or fall of cardiac biomarker values (preferab
+Removed accn F25128 by request
+Removed accn X59180 by request
+Removed accn X59250 by request
+Removed accn T28527 by request
+Removed accn T28539 by request
+Removed accn S13134 by request
+Removed accn S13030 by request
+Removed accn W48848	Due to comment CLOT			CLOTR.RPT4-;RN D. GOODGE 4/20/16 2302. JA
+Removed accn F24712	Due to comment HEMOL			HEMOLS.RPT4-;BARBARA 040116 2036 TH
+Removed accn S69779	Due to comment HEMOL			HEMOLS.RPT4-;EMILY WETHERFORD RN 1728 04022016 RF
+Removed accn X61050	Due to comment HEMOL			HEMOLS.RPT4-;LAUREN 040316 2002 TH
+Removed accn W33439	Due to comment HEMOL			HEMOLS.RPT4-;RN A. MORRIS 4/6/16 1725. JA
+Removed accn W33951	Due to comment HEMOL			HEMOLS.
+Removed accn H1492	Due to comment HEMOL			HEMOLS.RPT4-;ALEX RN 0403 04072016 RF
+Removed accn S4121	Due to comment HEMOL			HEMOLS.RPT4-;EMILY RN 1812 04092016 RF
+Removed accn M57337	Due to comment HEMOL			HEMOLS.RPT4-;DAVID 041116 0146 TH
+Removed accn H10012	Due to comment HEMOL			HEMOLZ.RPT4-;AMANDA RN 1010 041416 BC
+Removed accn F36978	Due to comment HEMOL			HEMOLS.RPT4-;RN P. WHITE 4/15/16 1513.JA
+Removed accn M67656	Due to comment HEMOL			HEMOLS.RPT4-;KRISTEN @ 1542 ART
+Removed accn W47433	Due to comment HEMOL			HEMOLS.RPT4-;RN C. LUGAN 4/20/16 1720. JA
+Removed accn F41010	Due to comment HEMOL			HEMOLZ.RPT4-;KALEN WARD RN 042216 0523/MS
+Removed accn M3042	Due to comment HEMOL			HEMOLS.RPT4-;JENNIFER @ 1030 ART
+Removed accn T50379	Due to comment HEMOL			HEMOLS.
+Removed accn M4136	Due to comment QRN			QRN.RPT4-;MILLER @ 1325 ART
+Removed accn M55680	Due to comment QNS			QNS.
+Removed accn T30566	Due to comment QNS			QNS.
+Removed accn T55859	Due to comment QNS			QNS.
+Removed accn M53085	Due to comment RPT4			GROH.RPT4-;KRISTEN @ 1335 ART
+Removed accn M65187	Due to comment RPT4			GROH.RPT4-;DR SMOLIK @ 0821 ART
+Removed accn M4656	Due to comment RPT4			GROH.RPT4-;EMILY @ 1455 ART
+Removed accn X71042	Due to comment PREVIOUSLY REPORTED	16.ULTRAC-;CORRECTED ON 04/17 AT 2224: PREVIOUSLY REPORTED AS 16
+Removed accn S8504 by request
+Removed accn F25128 by request
+Removed accn X59180 by request
+Removed accn X59250 by request
+Removed accn T29244 by request
+Removed accn S13134 by request
+Removed accn S13030 by request
+Removed accn W54998	Due to comment QNS			QNS.CALRED-;VANESSA RN @ 1912 4/27/2016 PATIENT DISCHARGED ALREADY DLG
+Removed accn X58985 by request
+Removed accn F22665	Due to comment CLOT			CLOTR.RPT4-;CHRISTEN @ 1404 ART-;CORRECTED ON 04/01 AT 1404: PREVIOUSLY REPORTED AS 8.8
+Removed accn S70258	Due to comment CLOT			CLOT.;NEW SPECIMEN ALREADY SENT
+Removed accn H1671	Due to comment CLOT			SCLOT.RPT4-;GABRIELLE BORROMEO RN 040716 0502/MS
+Removed accn M59844	Due to comment CLOT			CLOTR.RPT4-;J LATTA RN 1243 041116 BC
+Removed accn F33723	Due to comment CLOT			CLOTR.RPT4-;RANDY AT 0136 ON 4/15/16.CH
+Removed accn T55859	Due to comment CLOT			CLOTR.RPT4-;RN E. WILLIAMS 4/26/16 2310. JA
+Removed accn W55337	Due to comment CLOT			CLOTR.
+Removed accn W33951	Due to comment HEMOL			HEMOLS.
+Removed accn S69460	Due to comment ID			0.3.;This result has been called to EMILY MASSELINK RN by DAVID-;TIKU on 04.02.16 at 15:13, and has been read back.-;YNDIFF
+Removed accn S69749	Due to comment ID			1.7.;This result has been called to EMILY MASELINK RN by DAVID T-;IKU on 04.02.16 at 17:22, and has been read back.
+Removed accn T33264	Due to comment ID			1.2.;This result has been called to AMANDA MORRIS RN by DAVID TI-;KU on 04.05.16 at 17:33, and has been read back.
+Removed accn S8504 by request
+Removed accn F25128 by request
+Removed accn X59180 by request
+Removed accn X58985 by request
+Removed accn X59250 by request
+Removed accn T29244 by request
+Removed accn S13134 by request
+Removed accn S13030 by request
+Removed accn T50379 by request
+Removed 110 accns
+--- End SHC ---
+
+--- SHL data ---
+Removed accn M66297	Due to comment SNR			SNR.
+Removed accn X59230 by request
+Removed accn X59223 by request
+Removed accn W29648 by request
+Removed accn F27970 by request
+Removed accn W41785 by request
+Removed accn S7849 by request
+Removed accn W42102 by request
+Removed accn M65554 by request
+Removed accn W44003 by request
+Removed accn X2883 by request
+Removed accn X69113	Due to comment HEMOL			HEMOL.RPT4-;TRICIA SAVOY RN 20160417 1000 NF
+Removed accn X59223	Due to comment PREVIOUSLY REPORTED	0.10.YSPACE-NTROP1-NTROP2-NTROP3-NTROP4-NTROP5-NTROP6-NTROP7-NTROP8-NTROP9-NTRO10-NTRO11-NTRO12-NTRO13-NTRO14-CALRED-;DR HARDING 4.3.16 1225 MM-;CORRECTED ON 04/03 AT 1234: PREVIOUSLY REPORTED AS 0.09   The 2012 Third Universal Definition of Myocardial In
+Removed accn X59230 by request
+Removed accn X59305 by request
+Removed accn M53573 by request
+Removed accn T30255 by request
+Removed accn F27970 by request
+Removed accn F32273 by request
+Removed accn T41917 by request
+Removed accn S7849 by request
+Removed accn M65554 by request
+Removed accn M69865 by request
+Removed accn W44003 by request
+Removed accn X2883 by request
+Removed accn X69113	Due to comment HEMOL			HEMOL.RPT4-;TRICIA SAVOY RN 20160417 1000 NF
+Removed accn X69923	Due to comment QNS			QNS.;MM
+Removed accn W40615 by request
+Removed accn F25185 by request
+Removed accn X59230 by request
+Removed accn X59223 by request
+Removed accn X59305 by request
+Removed accn M53573 by request
+Removed accn W29648 by request
+Removed accn F27970 by request
+Removed accn F32273 by request
+Removed accn T41120 by request
+Removed accn T40604 by request
+Removed accn T41917 by request
+Removed accn W41785 by request
+Removed accn S7849 by request
+Removed accn W42102 by request
+Removed accn M65554 by request
+Removed accn M69865 by request
+Removed accn W44003 by request
+Removed accn X2883 by request
+Removed accn W40615 by request
+Removed accn F25185 by request
+Removed accn X59230 by request
+Removed accn X59223 by request
+Removed accn X59305 by request
+Removed accn M53573 by request
+Removed accn W29648 by request
+Removed accn F27970 by request
+Removed accn F32273 by request
+Removed accn T41120 by request
+Removed accn T40604 by request
+Removed accn T41917 by request
+Removed accn W41785 by request
+Removed accn S7849 by request
+Removed accn W42102 by request
+Removed accn M65554 by request
+Removed accn M69865 by request
+Removed accn W44003 by request
+Removed accn X2883 by request
+Removed 65 accns
+--- End SHL ---
+
+--- SMC data ---
+Removed accn M65762	Due to comment IFCAN			DEL.IFCAN
+Removed accn F37730	Due to comment CLOT			CLOTR.
+Removed accn F40311	Due to comment HEMOL			HEMOLS.
+Removed accn F29636	Due to comment QNS			QNS.
+Removed accn X66652	Due to comment CLOT			CLOTR.
+Removed accn X3988	Due to comment CLOT			CLOT.
+Removed accn S18059	Due to comment CLOT			CLOT.
+Removed accn S4004	Due to comment HEMOL			HEMOLS.
+Removed accn W36526	Due to comment HEMOL			HEMOLS.
+Removed accn H15500	Due to comment HEMOL			HEMOLS.
+Removed accn F42005	Due to comment HEMOL			HEMOLS.
+Removed accn F23918	Due to comment QNS			QNS.
+Removed accn F32082	Due to comment QNS			QNS.
+Removed accn M60165	Due to comment QNS			QNS.
+Removed accn H11736	Due to comment QNS			QNS.
+Removed accn F40491	Due to comment QNS			QNS.
+Removed accn S70147	Due to comment HEMOL			HEMOLS.
+Removed accn S4004	Due to comment HEMOL			HEMOLS.
+Removed accn X65986	Due to comment HEMOL			HEMOLS.
+Removed accn W36526	Due to comment HEMOL			HEMOLS.
+Removed accn W39106	Due to comment HEMOL			HEMOLS.;NOTIFIED MATT AARON RN, 4/13/16, 1409, BY MF, KTR-;CORRECTED ON 04/13 AT 1410: PREVIOUSLY REPORTED AS 0.01   The 2012 Third Universal Definition of Myocardial Infarction document states that detection of a rise and/or fall of cardiac biomarker value
+Removed accn W42072	Due to comment HEMOL			HEMOLS.
+Removed accn F33793	Due to comment HEMOL			HEMOLS.
+Removed accn W46052	Due to comment HEMOL			HEMOLS.
+Removed accn H15500	Due to comment HEMOL			HEMOLS.
+Removed accn F42005	Due to comment HEMOL			HEMOLS.
+Removed accn F43354	Due to comment HEMOL			HEMOLS.
+Removed accn S12984	Due to comment HEMOL			HEMOLS.
+Removed accn S13064	Due to comment HEMOL			HEMOLS.
+Removed accn S13882	Due to comment HEMOL			HEMOLS.
+Removed accn X2171	Due to comment HEMOL			HEMOLS.
+Removed accn T50255	Due to comment HEMOL			HEMOLS.
+Removed accn T50611	Due to comment HEMOL			HEMOLS.
+Removed accn S4004	Due to comment HEMOL			HEMOLS.
+Removed accn X65986	Due to comment HEMOL			HEMOLS.
+Removed accn T39255	Due to comment HEMOL			HEMOLS.
+Removed accn W36526	Due to comment HEMOL			HEMOLS.
+Removed accn W39106	Due to comment HEMOL			HEMOLS.
+Removed accn W42072	Due to comment HEMOL			HEMOLS.
+Removed accn H14079	Due to comment HEMOL			HEMOLZ.
+Removed accn F33814	Due to comment HEMOL			HEMOLZ.
+Removed accn F36777	Due to comment HEMOL			HEMOLS.
+Removed accn S6648	Due to comment HEMOL			HEMOLS.
+Removed accn S8509	Due to comment HEMOL			HEMOLS.
+Removed accn S9136	Due to comment HEMOL			HEMOLS.
+Removed accn W46052	Due to comment HEMOL			HEMOLS.
+Removed accn H15500	Due to comment HEMOL			HEMOLS.
+Removed accn F42005	Due to comment HEMOL			HEMOLS.
+Removed accn S12433	Due to comment HEMOL			HEMOLS.
+Removed accn S12632	Due to comment HEMOL			HEMOLS.
+Removed accn S12984	Due to comment HEMOL			HEMOLS.
+Removed accn S13064	Due to comment HEMOL			HEMOLS.
+Removed accn T50153	Due to comment HEMOL			HEMOLS.
+Removed accn T50255	Due to comment HEMOL			HEMOLS.
+Removed accn T50611	Due to comment HEMOL			HEMOLS.
+Removed accn W51693	Due to comment HEMOL			HEMOLS.
+Removed accn H27057	Due to comment HEMOL			HEMOLS.
+Removed accn F48619	Due to comment QRN			QRN.
+Removed accn S7497	Due to comment QNS			QNS.XMC
+Removed accn X3800	Due to comment QNS			QNS.
+Removed accn T50319	Due to comment QNS			QNS.
+Removed accn W41543	Due to comment GROH			GROH.
+Removed accn F37293 by request
+Removed accn S14129 by request
+Removed accn M55687	Due to comment HEMOL			HEMOLS.
+Removed accn T38452	Due to comment HEMOL			HEMOLS.
+Removed accn F40311	Due to comment HEMOL			HEMOLS.
+Removed accn X3177	Due to comment HEMOL			HEMOLS.
+Removed accn M6387	Due to comment HEMOL			HEMOLS.
+Removed accn M55164	Due to comment CLOT			CLOTR.
+Removed accn F32082	Due to comment CLOT			CLOTR.
+Removed accn X66389	Due to comment CLOT			CLOT.
+Removed accn T41175	Due to comment CLOT			CLOTR.
+Removed accn W39761	Due to comment CLOT			CLOTR.
+Removed accn H11736	Due to comment CLOT			CLOTR.
+Removed accn F37730	Due to comment CLOT			CLOTR.
+Removed accn S7497	Due to comment CLOT			SCLOT.
+Removed accn H20511	Due to comment CLOT			SCLOT.
+Removed accn F42741	Due to comment CLOT			CLOTR.
+Removed accn X1012	Due to comment CLOT			CLOT.
+Removed accn X3988	Due to comment CLOT			CLOT.
+Removed accn T50319	Due to comment CLOT			SCLOT.
+Removed accn T50957	Due to comment CLOT			CLOTR.
+Removed accn T51338	Due to comment CLOT			CLOTR.
+Removed accn T53889	Due to comment CLOT			SCLOT.
+Removed accn F52194	Due to comment CLOT			CLOTR.;NOTIFIED A FELLER RN AT 0045 ON 4.30.16 BY RLS
+Removed accn S16224	Due to comment CLOT			SCLOT.
+Removed accn S18059	Due to comment CLOT			CLOT.
+Removed accn F21770	Due to comment CLTD			CLTD.
+Removed accn W54088	Due to comment CLTD			CLTD.
+Removed accn X66652	Due to comment QRN			QRN.
+Removed accn W36828	Due to comment QRN			QRN.;NOTIFIED AARRON RN TO RECOLLECT
+Removed accn X59265	Due to comment DUP			DUP.
+Removed accn F37293 by request
+Removed accn S14129 by request
+Removed 95 accns
+--- End SMC ---
+
+--- SNW data ---
+Removed accn F23657	Due to comment HEMOL			HEMOLS.RPT4-;DANIEL AT 15:42, 4/1/16,KM
+Removed accn S13561	Due to comment HEMOL			HEMOLS.;NOTIFIED DANIEL @1705. CCC
+Removed accn X4239	Due to comment HEMOL			HEMOLS.;NOTIFIED KELLY @2234. CCC
+Removed accn T40631	Due to comment QNS			QNS.
+Removed accn M67483	Due to comment QNS			QNS.
+Removed accn X65040	Due to comment DUP			DUP.
+Removed accn M1618	Due to comment PREVIOUSLY REPORTED	1984.;CALLED CORRECTED RESULT TO DR SCHLAB AT 0720 4/25/16 MGS-;CORRECTED ON 04/25 AT 0720: PREVIOUSLY REPORTED AS 1238 POSITIVE   This quantitative assay can be used to assist in the diagnosis and exclusion of Deep Venous Thrombosis and Pulmonary Embolis
+Removed accn M61602	Due to comment QNS			QNS.;NOTIFIED JAEL @1738 041116. CCC
+Removed accn T54344	Due to comment QNS			QNS.RPT4-;DANIEL MICYK RN ON 4/26/2016 AT 1750 AC
+Removed accn S1743	Due to comment NSR			NSR.
+Removed accn F23657	Due to comment HEMOL			HEMOLS.RPT4-;DANIEL AT 15:42, 4/1/16,KM
+Removed accn W39751	Due to comment HEMOL			HEMOLS.
+Removed accn T54213	Due to comment HEMOL			;HEMOLS.RPT4-;SEAN AT 16:26, 4/26/16,KM
+Removed accn F51965	Due to comment HEMOL			HEMOLS.;NOTIFIED JESSICA @2224. CCC
+Removed accn M67483	Due to comment QNS			QNS.;MAGGIE NOTIFIED BY MS @1440.
+Removed accn F23657	Due to comment HEMOL			HEMOLS.RPT4-;DANIEL AT 15:42, 4/1/16,KM
+Removed accn X58550	Due to comment HEMOL			HEMOLS.
+Removed accn W39751	Due to comment HEMOL			HEMOLS.
+Removed accn S8584	Due to comment HEMOL			HEMOLS.RPT4-;LAWRENCE AT 15:11, 4/16/16,KM
+Removed accn T54213	Due to comment HEMOL			;HEMOLS.RPT4-;SEAN AT 16:26, 4/26/16,KM
+Removed accn T55966	Due to comment HEMOL			HEMOLS.
+Removed accn F51965	Due to comment HEMOL			HEMOLS.;NOTIFIED JESSICA @2224. CCC
+Removed accn H20463	Due to comment HEMOL			HEMOLS.RPT4-;LEIA AT 22:40, 4/21/16,KM
+Removed accn T54213	Due to comment CLOT			CLOTR.;SEAN AT 16:26, 4/26/16,KM
+Removed accn T55966	Due to comment CLOT			SCLOT.
+Removed accn H17943	Due to comment CLTD			CLTD.
+Removed 26 accns
+--- End SNW ---
+
+--- SSW data ---
+Removed accn W39366	Due to comment CLOT			SCLOT.
+Removed accn S70046	Due to comment HEMOL			HEMOLZ.QNS
+Removed accn X65055	Due to comment HEMOL			HEMOLZ.
+Removed accn X4298	Due to comment QRN			QRN.
+Removed accn M61682 by request
+Removed accn M51361 by request
+Removed accn T29955 by request
+Removed accn T32736 by request
+Removed accn F28381 by request
+Removed accn H12056 by request
+Removed accn H20440 by request
+Removed accn W39366	Due to comment CLOT			SCLOT.
+Removed accn F28862	Due to comment HEMOL			HEMOLZ.
+Removed accn M67747	Due to comment QNS			QNS.
+Removed accn X59902 by request
+Removed accn X59336 by request
+Removed accn T30472 by request
+Removed accn T29955 by request
+Removed accn T31211 by request
+Removed accn T32736 by request
+Removed accn T33418 by request
+Removed accn T31324 by request
+Removed accn H1828 by request
+Removed accn H3648 by request
+Removed accn S4865 by request
+Removed accn T54660 by request
+Removed accn W52053	Due to comment HEMOL			HEMOLZ.
+Removed accn H26905	Due to comment HEMOL			HEMOLZ.
+Removed accn M61682 by request
+Removed accn X60884 by request
+Removed accn X60883 by request
+Removed accn M51361 by request
+Removed accn M50530 by request
+Removed accn T29955 by request
+Removed accn T32736 by request
+Removed accn H1830 by request
+Removed accn H1828 by request
+Removed accn H6211 by request
+Removed accn H6588 by request
+Removed accn S4865 by request
+Removed accn F27009 by request
+Removed accn F28381 by request
+Removed accn F28353 by request
+Removed accn X65055 by request
+Removed accn M61883 by request
+Removed accn H12056 by request
+Removed accn H12501 by request
+Removed accn S6530 by request
+Removed accn S6532 by request
+Removed accn S7796 by request
+Removed accn H20440 by request
+Removed accn W45361 by request
+Removed accn T54660 by request
+Removed accn F28862	Due to comment HEMOL			HEMOLZ.
+Removed accn M68030	Due to comment HEMOL			HEMOLZ.
+Removed accn T48270	Due to comment HEMOL			HEMOLS.
+Removed accn F45098	Due to comment HEMOL			HEMOLZ.
+Removed accn S14246	Due to comment HEMOL			HEMOLS.
+Removed accn T51698	Due to comment HEMOL			HEMOLS.
+Removed accn W52053	Due to comment HEMOL			HEMOLZ.
+Removed accn X4298	Due to comment QRN			QRN.
+Removed accn M61481 by request
+Removed accn M61682 by request
+Removed accn X59902 by request
+Removed accn X60883 by request
+Removed accn X59131 by request
+Removed accn X61059 by request
+Removed accn M51361 by request
+Removed accn T30472 by request
+Removed accn T29955 by request
+Removed accn T31211 by request
+Removed accn T32736 by request
+Removed accn T33418 by request
+Removed accn T31324 by request
+Removed accn H1828 by request
+Removed accn H3648 by request
+Removed accn H6211 by request
+Removed accn S4865 by request
+Removed accn S1412 by request
+Removed accn F27009 by request
+Removed accn F28381 by request
+Removed accn F28353 by request
+Removed accn F28562 by request
+Removed accn X65055 by request
+Removed accn T36263 by request
+Removed accn M61883 by request
+Removed accn H12056 by request
+Removed accn S7796 by request
+Removed accn F33789 by request
+Removed accn H20440 by request
+Removed accn W45361 by request
+Removed accn T54660 by request
+Removed accn X59336 by request
+Removed accn S6530 by request
+Removed accn S4394	Due to comment CLOT			SCLOT.
+Removed accn S14246	Due to comment HEMOL			HEMOLS.
+Removed accn W52053	Due to comment HEMOL			HEMOLZ.
+Removed accn X4298	Due to comment QRN			QRN.
+Removed accn T52098	Due to comment DUP			DUP.
+Removed accn T55931	Due to comment SNR			SNR.
+Removed accn M61481 by request
+Removed accn M61682 by request
+Removed accn X59902 by request
+Removed accn X59336 by request
+Removed accn X60883 by request
+Removed accn X59131 by request
+Removed accn X61059 by request
+Removed accn M51361 by request
+Removed accn T30472 by request
+Removed accn T29955 by request
+Removed accn T31211 by request
+Removed accn T32736 by request
+Removed accn T33418 by request
+Removed accn T31324 by request
+Removed accn H1828 by request
+Removed accn H3648 by request
+Removed accn H6211 by request
+Removed accn S4865 by request
+Removed accn S1412 by request
+Removed accn F27009 by request
+Removed accn F28381 by request
+Removed accn F28353 by request
+Removed accn F28562 by request
+Removed accn X65055 by request
+Removed accn T36263 by request
+Removed accn M61883 by request
+Removed accn H12056 by request
+Removed accn S6530 by request
+Removed accn S7796 by request
+Removed accn F33789 by request
+Removed accn H20440 by request
+Removed accn W45361 by request
+Removed accn T54660 by request
+Removed 133 accns
+--- End SSW ---
+
+--- SWC data ---
+Removed accn S17979	Due to comment CLOT			CLOTR.RPT4-;ALICIA SHELTON RN ON 4/30/2016 AT 1526 AC
+Removed accn H18837	Due to comment SNR			SNR.
+Removed accn H15446	Due to comment GROH			GROH.CALRED-;E. WHITE,RN 042116 @ 0105 JTB
+Removed accn H12533 by request
+Removed accn S70778	Due to comment HEMOL			HEMOLS.RPT4-;JENNA RN 2339 04/02/16 KEM
+Removed accn M52418	Due to comment HEMOL			HEMOLS.RPT4-;KRISTI,RN AT 1144 4/4/16, PB
+Removed accn M52721	Due to comment HEMOL			HEMOLS.RPT4-;KRISTI,RN AT 1246 4/4/16, PB
+Removed accn T31100	Due to comment HEMOL			HEMOLS.
+Removed accn F28182	Due to comment HEMOL			HEMOL.RPT4-;CHRISTY STEPHENSON RN 20160408 1036 NF
+Removed accn M60636	Due to comment HEMOL			HEMOLS.RPT4-;ANGELA,RN AT 1444 4/11/16, PB
+Removed accn M61807	Due to comment HEMOL			HEMOL.RPT4-;ANU SONI RN 20160411 2155 NF
+Removed accn T48183	Due to comment HEMOL			HEMOLS.RPT4-;EMMA @ 1950 4/19/16, LB.
+Removed accn W47197	Due to comment HEMOL			HEMOLS.RPT4-;REBECCA,RN 04.20.16 @ 1607 TD
+Removed accn W47395	Due to comment HEMOL			HEMOLS.RPT4-;ALICIA,RN 04.20.16 TD
+Removed accn H16895	Due to comment HEMOL			HEMOLS.RPT4-;TIFFANY AT 1015 4/21/16 PC
+Removed accn F41295	Due to comment HEMOL			HEMOLS.RPT4-;JENNA PIRCE, ER RN @0658 4/22/16 CLC
+Removed accn M1756	Due to comment HEMOL			HEMOLS.
+Removed accn T53904	Due to comment HEMOL			HEMOL.RPT4-;CHRISTY STEVENSON RN 20160426 1530 NF
+Removed accn H24973	Due to comment HEMOL			HEMOL.RPT4-;ANALISA PENA RN @ 1301 ON 4/28/16 JH
+Removed accn F47584	Due to comment HEMOL			HEMOLS.RPT4-;AJISHA RN 0552 04/29/16 KEM
+Removed accn M50805	Due to comment RPT4			GROH.RPT4-;KRISTY STEPHENSON RN @ 1113 4/4/16 DT
+Removed accn M55429	Due to comment RPT4			LABEL.RPT4-;PER EMMA SMITH, RN @ 2127 4/4/16 LB.-;CORRECTED ON 04/04 AT 2126: PREVIOUSLY REPORTED AS <0.01   The 2012 Third Universal Definition of Myocardial Infarction document states that detection of a rise and/or fall of cardiac biomarker values (pref
+Removed accn F28297	Due to comment RPT4			HEMOL.RPT4-;CHRISTY STEPHENSON RN 20160408 1036 NF
+Removed accn F35089	Due to comment RPT4			GROH.RPT4-;TIFFANY RN @ 0955 4/15/16 DT
+Removed accn W44284	Due to comment ID			0.19.YSPACE-NTROP1-NTROP2-NTROP3-NTROP4-NTROP5-NTROP6-NTROP7-NTROP8-NTROP9-NTRO10-NTRO11-NTRO12-NTRO13-NTRO14-CALRED-; CHRISTINE TACORDA RN @ 0838 4-CALRED-; CHRID-CALRED-;CHRISTINE TACORDA RN @0838-CALRED-;CHRISTINE TACORDA RN @ 0838 ON 4-CALRED-;CHRISTI
+Removed accn W53955	Due to comment DUP			DUPL.
+Removed accn T37689	Due to comment PREVIOUSLY REPORTED	0.10.CALRED-;CORRECTED ON 04/12 AT 1014: PREVIOUSLY REPORTED AS KRISTI STEPHENSON,RN AT 1007, 4/12/16, BC
+Removed accn T39350 by request
+Removed accn H12533 by request
+Removed accn S70778	Due to comment HEMOL			HEMOLS.RPT4-;JENNA RN 2339 04/02/16 KEM
+Removed accn X60103	Due to comment HEMOL			HEMOLS.RPT4-;REBECCA AT 1502 4/3/16 PC
+Removed accn M52418	Due to comment HEMOL			HEMOLS.RPT4-;KRISTI,RN AT 1144 4/4/16, PB
+Removed accn M52721	Due to comment HEMOL			HEMOLS.RPT4-;KRISTI,RN AT 1246 4/4/16, PB
+Removed accn T31100	Due to comment HEMOL			HEMOLS.
+Removed accn F32167	Due to comment HEMOL			HEMOLS.RPT4-;ERICA RN @2320 4.8.16,ES
+Removed accn M60636	Due to comment HEMOL			HEMOLS.RPT4-;ANGELA,RN AT 1444 4/11/16, PB
+Removed accn H11523	Due to comment HEMOL			HEMOLS.RPT4-;COLE AT 1339 4/14/16 PC
+Removed accn S6809	Due to comment HEMOL			HEMOLS.RPT4-;EMMA RN 0507 04/16/16 KEM
+Removed accn M68592	Due to comment HEMOL			HEMOLS.RPT4-;STEPHANIE,RN 04.18.16 @ 1739 TD
+Removed accn T45629	Due to comment HEMOL			HEMOLS.RPT4-;KRISTI,RN AT 1422 4/19/16, PB
+Removed accn T48183	Due to comment HEMOL			HEMOLS.RPT4-;EMMA @ 1950 4/19/16, LB.
+Removed accn W47197	Due to comment HEMOL			HEMOLS.RPT4-;REBECCA,RN 04.20.16 @ 1607 TD
+Removed accn W47395	Due to comment HEMOL			HEMOLS.RPT4-;ALICIA,RN 04.20.16 TD
+Removed accn H16895	Due to comment HEMOL			HEMOLS.RPT4-;TIFFANY AT 1015 4/21/16 PC
+Removed accn X3890	Due to comment HEMOL			HEMOLS.RPT4-;ZACK @2000 4.24.16,ES
+Removed accn M1756	Due to comment HEMOL			HEMOLS.
+Removed accn T53904	Due to comment HEMOL			HEMOL.RPT4-;CHRISTY STEVENSON RN 20160426 1530 NF
+Removed accn W54976	Due to comment HEMOL			HEMOLS.RPT4-;REBECCA @ 1845 4/27/16, LB.
+Removed accn H24973	Due to comment HEMOL			HEMOL.RPT4-;ANALISA PENA RN @ 1301 ON 4/28/16 JH
+Removed accn X2736	Due to comment QNS			QNS.RPT4-;CHRISTY STEVENSON RN 20160424 1350 NF
+Removed accn M55429	Due to comment RPT4			LABEL.RPT4-;PER EMMA SMITH, RN @ 2127 4/4/16 LB.
+Removed accn S3081	Due to comment RPT4			MODH.RPT4-;KRISTY STEPHENSON RN @ 1245 4/9/16 DT
+Removed accn F35089	Due to comment RPT4			GROH.RPT4-;TIFFANY RN @ 0955 4/15/16 DT
+Removed accn W54893	Due to comment RPT4			HEMOL.RPT4-;REBECCA SAYER RN 20160427 1900 NF
+Removed accn W53955	Due to comment DUP			DUPL.
+Removed accn H15446	Due to comment GROH			GROH.CALRED-;E. WHITE,RN 042116
+Removed accn H12533 by request
+Removed accn F28733	Due to comment HEMOL			HEMOL.RPT4-;KRISTI STEPHENSON RN 20160408 1045 NF
+Removed accn F41295	Due to comment HEMOL			HEMOLS.RPT4-;JENNA PIRCE, ER RN @0658 4/22/16 CLC
+Removed accn M60922	Due to comment CLOT			CLOTR.RPT4-;LAURIE @ 1527 4/11/16, LB.
+Removed accn S14075	Due to comment CLOT			CLOT.RPT4-;ALICIA,RN 04.23.16 @ 1942 TD
+Removed accn W54976	Due to comment CLOT			;CLOTTED.
+Removed accn S17979	Due to comment CLOT			CLOTR.RPT4-;ALICIA SHELTON RN ON 4/30/2016 AT 1526 AC
+Removed accn X1777	Due to comment CLTD			CLTD.RPT4-;CHRISTY STEVENSON RN 20160424 0810 NF
+Removed accn S68699	Due to comment QRN			QRN.RPT4-;ANGELA CRONE RN @ 1115 4/2/16 DT
+Removed accn M55429	Due to comment RPT4			LABEL.RPT4-;PER EMMA SMITH, RN @ 2127 4/4/16 LB.-;CORRECTED ON 04/04 AT 2126: PREVIOUSLY REPORTED AS 8.3
+Removed accn H17967	Due to comment RPT4			8.5.WPAT-RPT4-;LINDA SIFUENTES,RN AT 1433 4/21/16, PB
+Removed accn H12533 by request
+Removed accn T48743 by request
+Removed accn T48819	Due to comment IFCAN			DEL.IFCAN
+Removed accn X61089	Due to comment CLOT			CLOTR.QNS-RPT4-;JENNA PEARCE RN ON 4/3/2016 AT 2102 AC
+Removed accn X60815	Due to comment HEMOL			QNS.HEMOLS-RPT4-;ALICIA SHELTON RN ON 4/3/2016 AT 1917 AC
+Removed accn X61563	Due to comment RPT4			RPT4.;UNABLE TO ANALYZE, ERICA WHITE RN ON 4/3/2016 AT 2335 AC
+Removed accn M55429	Due to comment LABEL			LABEL.;PER EMMA SMITH, RN @ 4/4/16 2130 LB.-;CORRECTED ON 04/04 AT 2130: PREVIOUSLY REPORTED AS <200 NEGATIVE   This quantitative assay can be used to assist in the diagnosis and exclusion of Deep Venous Thrombosis and Pulmonary Embolism. Although not spec
+Removed 74 accns
+--- End SWC ---
+
+
+Removed 683 accns
+Imported 51 Files from 8 Folders 
+
+Started at: 	5/2/2016 1:36:43 PM
+Finished at: 	5/2/2016 1:39:46 PM
+Elapsed time: 	03:03 [min:sec]
